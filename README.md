@@ -63,9 +63,9 @@ console.log(className);
 9. Use square brackets []() and rounded brackets to create a link. Square brackets hold the text, the rounded brackets hold the link.
    Example:-
 
-[Connect me on Linkedin](https://www.linkedin.com/in/muhammad-farooq-b71886295/)
+[Connect Me on Linkedin](https://www.linkedin.com/in/muhammad-farooq-b71886295/)
 
-[Connect me on Github](https://github.com/Farooq85-dev)
+[Connect Me on Github](https://github.com/Farooq85-dev)
 
 10. Use Exclamatory sign with square brackets and rounded brackets ![]() to embed the image. 11. Use the pipe sign and then write some text and then enclose the text with pipe sign. It will create the table like structure.
     Example:-
@@ -75,4 +75,34 @@ console.log(className);
     | 10002 | Matric | A+ |
     | 10003 | Matric | D |
 
-11. Use less than or greater sign to create an amhasize an interesting note.
+11. Use greater than sign to create an amhasize an interesting note.
+    Example:-
+
+> Hy I am passsionate developer from Pakistan.
+
+12. Use single hyphen with square brackets [] to create an unchecked box.
+    > Example:-
+
+- [ ] India
+
+13. Use single hyphen with square brackets [] and write x in the square brackets to create an checked box.
+    > Example:-
+
+- [x] Nepal
+
+14. Embed text in the double staric to create the bold
+    effect.
+    ** cv **
+15. Use HTML super and sub tag to create super and subscript text.
+
+---
+
+### Muhammad Farooq
+
+[Connect Me on Linkedin](https://www.linkedin.com/in/muhammad-farooq-b71886295/)
+
+[Connect Me on Github](https://github.com/Farooq85-dev)
+
+![My-Image](./assets/my-img.jpeg)
+
+---
